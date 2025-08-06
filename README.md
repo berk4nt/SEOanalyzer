@@ -1,3 +1,9 @@
+
+**Projenin arayüz videosu, tanıtım videosu , sunum ve canlı link asağıda verilmiştir. Lütfen İnceleyiniz.**
+**Sunum ve videoların bulunduğu Drive linki : https://drive.google.com/drive/folders/13Ba_QKTvf6_miP4D_n-cjuBXxMTVJPV4?usp=sharing**
+**Projenin canlıya alındığı HuggingFace Space linki : https://huggingface.co/spaces/B3RK4NT/SEOanalyzer**
+
+
 # 🚀 SEO Analiz Aracı
 
 Bu proje, resimdeki mimariye uygun olarak geliştirilmiş kapsamlı bir SEO analiz aracıdır. 4 agent'tan oluşan bir crew sistemi kullanarak Gemini API ile entegre çalışır.
@@ -151,5 +157,6 @@ Bu proje MIT lisansı altında lisanslanmıştır.
    - Python sürümünüzün uyumlu olduğunu kontrol edin
 
 ## 📞 İletişim
+
 
 Sorularınız için issue açabilir veya pull request gönderebilirsiniz. 
