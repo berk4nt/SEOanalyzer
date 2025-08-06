@@ -1,5 +1,5 @@
 
-**Projenin arayüz videosu, tanıtım videosu , sunum ve canlı link asağıda verilmiştir. Lütfen İnceleyiniz.**
+**Projenin arayüz videosu, tanıtım videosu , sunum ve canlı link aşağıda verilmiştir. Lütfen İnceleyiniz.**
 
 **Sunum ve videoların bulunduğu Drive linki : https://drive.google.com/drive/folders/13Ba_QKTvf6_miP4D_n-cjuBXxMTVJPV4?usp=sharing**
 
@@ -162,4 +162,5 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 
 
 Sorularınız için issue açabilir veya pull request gönderebilirsiniz. 
+
 
